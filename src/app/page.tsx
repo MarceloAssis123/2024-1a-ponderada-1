@@ -39,7 +39,7 @@ export default function Home() {
 
       <div className={styles.grid}>
         <a
-          href=""
+          href="https://github.com/MarceloAssis123/2024-1a-ponderada-1"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
