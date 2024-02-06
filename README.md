@@ -37,9 +37,18 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Commits
 1° - Criação da aplicação vercel
+
 2° - Criação do botão escrito fogos de artifício.
+
 3° - Correção da palavra fogos de artifício.
+
 4° - Correção das depedências NPM.
+
 5° - Criação do botão de link para o Github.
+
 6° - Corrige a URL do botão de link para o Github.
+
 7° - Adiciona a seção de Commits no README.
+
+8° - Corrige a seção de commits no README.
+
